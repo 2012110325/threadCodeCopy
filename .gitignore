@@ -1,0 +1,23 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/*/logs/
+.idea/misc.xml
+.idea/workspace.xml
+/.idea/
+*.iml
+logs/
+*.xml.versionsBackup
+*.releaseBackup
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.imllogs/
+*.xml.versionsBackup
+*/.DS_Store
+.DS_Store
+*.ipr
